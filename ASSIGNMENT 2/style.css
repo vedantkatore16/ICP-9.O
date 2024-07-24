@@ -1,0 +1,15 @@
+.class{
+    color: rgb(195, 221, 245);
+    background-color: #2b2424;
+    height: auto;
+    width: auto;
+}
+.button{
+    color: rgb(233, 230, 236);
+    background-color: #0d0c0e;
+    height: 40px;
+}
+.p{
+    color: blue;
+    font-size: large;
+}
